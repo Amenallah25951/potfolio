@@ -52,7 +52,7 @@ export default function Portfolio() {
 
   const experiences = [
     {
-      title: "Stagiaire PFE",
+      title: "Stage de pefectionnement",
       company: "Sagemcom Tunisie",
       period: "Janvier 2025 - Février 2025",
       location: "Borj Ghorbel, Ben Arous",
@@ -65,7 +65,7 @@ export default function Portfolio() {
       ]
     },
     {
-      title: "Stagiaire d'Initiation",
+      title: "Stage d'Initiation",
       company: "Tunisie Booking",
       period: "Janvier 2024 - Février 2024",
       location: "Djerba, Houmet Essouk",
